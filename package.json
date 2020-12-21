@@ -1,0 +1,19 @@
+{
+  "name": "candidate-testing",
+  "version": "1.0.0",
+  "description": "LaunchCode LC101 Intro to Professional Web Development Assignment",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:LaunchCodeEducation/github-classroom-autograded-assignments/candidate-testing.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
