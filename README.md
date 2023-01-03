@@ -29,9 +29,9 @@ They will be looking for other things as well.
 
 1. When they run your code, does the output look like the [example output](https://education.launchcode.org/intro-to-professional-web-dev/assignments/candidateQuiz.html#example-output) in the textbook?
 1. Does your code include the following?
-   1. Arrays
-   1. At least one template literal
-   1. A loop
+   a. Arrays
+   b. At least one template literal
+   c. A loop
 
 Your TA will also run your code with several answer sets to check the program's accuracy. Here is one for you to use!
 
